@@ -1,0 +1,2 @@
+# Proceso-ETL-de-un-Data-Set-para-la-creaci-n-de-un-producto-de-Data-Science
+This article was created with the purpose to analyze a Raw Data Set for the creation of a Data Science product. This work is based in a three steps process: Extract-Transform-Load (ETL). For this, a system was implemented in Python programming language, as well as MongoDB as a NoSQL database manager. At the end of the process it is concluded that the Data Set is made upof tweets and these are related to cybersecurity issues.
